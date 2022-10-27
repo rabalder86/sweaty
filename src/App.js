@@ -1,3 +1,6 @@
+import LogRocket from "logrocket";
+LogRocket.init("5afvtw/sweaty");
+
 import logo from "./logo.svg";
 import "./App.css";
 
